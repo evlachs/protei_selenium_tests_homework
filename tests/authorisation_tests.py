@@ -1,5 +1,5 @@
 from page_classes.auth_page import AuthPage
-from page_classes.main_page  import MainPage
+from page_classes.main_page import MainPage
 
 
 def test_valid_student_auth(driver):
